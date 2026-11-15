@@ -1,6 +1,4 @@
-# Lokgi
-
-**US equities. Onchain access.**
+![Lokgi — US equities. Onchain access.](assets/lokgi-banner.png)
 
 We're building a market platform that brings US equity research, wallet-connected portfolios, and USDC settlement together on Solana.
 
